@@ -485,6 +485,15 @@ footer li{
         margin: 2px;
     }
 
+    .mynavbar .nav-link {
+        font-size: 1rem;
+        text-align: center;
+    }
+
+    .sticky-top{
+        overflow: hidden;
+    }
+
     .timeline li .timeline-image{
         width: 80px;
         height: 80px;
